@@ -1,0 +1,39 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 10px 30px 20px 30px;
+    box-shadow:7px 5px 10px 20px rgba(160, 154, 154, 0.289);
+}
+.header{
+    background-color: rgba(77, 128, 224, 0.758);
+    border-radius: 10px;
+    padding: 1px 2px 2px 30px;
+    display: flex;
+}
+
+
+.car-full-thing{ 
+    display: flex;
+}
+.car{
+    width: 40%;
+    font-size: 20px;
+    margin-top: 20px;
+    padding-left: 40px;
+
+    
+}
+.car img{
+    width: 65%;}
+
+.ola{ 
+    width: 50%;
+    margin: 50px;
+    padding: 10px 20px 10px 10px;
+    box-shadow: 10px 10px 15px 10px rgba(110, 83, 83, 0.413) ;
+}
+#ola-lo{
+     border-radius: 7px;
+    border-image: linear-gradient(cyan,blue);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
